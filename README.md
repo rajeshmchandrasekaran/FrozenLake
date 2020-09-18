@@ -1,4 +1,4 @@
-# FrozenLake
+# MyFirstProject
 
 Hello Everyone,
 
